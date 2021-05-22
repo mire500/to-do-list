@@ -1,0 +1,70 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #f2e7fc !important;
+}
+
+.card-header-blue {
+  color: rgb(54, 4, 35);
+}
+
+.card-body {
+  background-color: rgb(194, 161, 224);
+  color: aliceblue;
+}
+
+.buttonform {
+  background-color: #ddafd2 !important;
+  width: 100px;
+  border-radius: 10px;
+  border: 0px;
+  padding: 5px;
+}
+
+#addTaskForm {
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 4px #b8b8b8;
+  border-radius: 10px;
+}
+
+#mainRow {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+/* small card */
+#smallcards {
+  margin-right: 20px;
+}
+/* big cards */
+
+#largeCards {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.task-card 1 {
+  background: rgb(73, 51, 22);
+}
+
+.task-card 1 {
+  background-color: blue;
+}
+/* Footer */
+
+#cardbtn {
+  background-color: #310326;
+  color: #f2e7fc;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+.errorName {
+  margin: 0px;
+}
